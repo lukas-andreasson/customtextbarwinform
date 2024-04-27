@@ -1,0 +1,10 @@
+A:\Programming\customtextbox\customtextbox\bin\Debug\customtextbox.exe.config
+A:\Programming\customtextbox\customtextbox\bin\Debug\customtextbox.exe
+A:\Programming\customtextbox\customtextbox\bin\Debug\customtextbox.pdb
+A:\Programming\customtextbox\customtextbox\obj\Debug\customtextbox.csproj.AssemblyReference.cache
+A:\Programming\customtextbox\customtextbox\obj\Debug\customtextbox.Form1.resources
+A:\Programming\customtextbox\customtextbox\obj\Debug\customtextbox.Properties.Resources.resources
+A:\Programming\customtextbox\customtextbox\obj\Debug\customtextbox.csproj.GenerateResource.cache
+A:\Programming\customtextbox\customtextbox\obj\Debug\customtextbox.csproj.CoreCompileInputs.cache
+A:\Programming\customtextbox\customtextbox\obj\Debug\customtextbox.exe
+A:\Programming\customtextbox\customtextbox\obj\Debug\customtextbox.pdb
